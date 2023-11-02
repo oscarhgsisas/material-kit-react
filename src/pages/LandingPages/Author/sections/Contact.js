@@ -66,7 +66,7 @@ function Contact() {
                   height="100%"
                 >
                   <MKBox py={6} pr={6} pl={{ xs: 6, sm: 12 }} my="auto">
-                    <MKTypography variant="h3" color="white" mb={1}>
+                    <MKTypography variant="h3" color="cyan" mb={1}>
                       Contact Information
                     </MKTypography>
                     <MKTypography variant="body2" color="white" opacity={0.8} mb={3}>

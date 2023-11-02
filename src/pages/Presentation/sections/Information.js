@@ -66,9 +66,8 @@ function Information() {
               <Grid item xs={12} md={6}>
                 <DefaultInfoCard
                   icon="content_copy"
-                  title="Full Documentation"
-                  description="Built by developers for developers. Check the foundation and you will find
-                    everything inside our documentation."
+                  title="Arañas"
+                  description="Importancia ecológica: A pesar de su mala reputación, las arañas son esenciales para el equilibrio ecológico. Son depredadores naturales que controlan las poblaciones de insectos, lo que ayuda a regular los ecosistemas."
                 />
               </Grid>
               <Grid item xs={12} md={6}>
