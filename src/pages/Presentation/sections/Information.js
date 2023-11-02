@@ -68,6 +68,12 @@ function Information() {
                   icon="content_copy"
                   title="Full Documentation"
                   description="Built by developers for developers. Check the foundation and you will find
+                    everything inside our documentation.
+                    Built by developers for developers. Check the foundation and you will find
+                    everything inside our documentation.
+                    Built by developers for developers. Check the foundation and you will find
+                    everything inside our documentation.
+                    Built by developers for developers. Check the foundation and you will find
                     everything inside our documentation."
                 />
               </Grid>
